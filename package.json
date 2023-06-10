@@ -3,7 +3,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://katniss-nataliia.github.io/goit-js-hw-08",
+  "homepage": "https://katniss-nataliia.github.io/goit-js-hw-09-new",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"
